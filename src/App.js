@@ -12,6 +12,7 @@ import AlertState from './context/alert/AlertState';
 
 import './App.css';
 
+// comment
 const App = () => {
   return (
     <GithubState>
